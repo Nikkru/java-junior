@@ -1,5 +1,7 @@
 package stream_API;
 
+@FunctionalInterface
 public interface PlainInterface {
-    String action(int x, int y);
+    int action(int x, int y);
+//    String action(int x, int y);
 }
