@@ -25,8 +25,11 @@ public class Main {
         System.out.println(gaz);
 
         Method[] methods = gaz.getClass().getDeclaredMethods();
-        for (int i = 0; i < methods.length; i++) {
-            System.out.println(methods[i]);
+//        for (int i = 0; i < methods.length; i++) {
+//            System.out.println(methods[i]);
+//        }
+        for (Method method : methods) {
+            System.out.println(method);
         }
     }
 }
