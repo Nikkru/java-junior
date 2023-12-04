@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09537f30-3637-462a-9392-af2fe8a8c5d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/stream_API/reflection_API/lection/seminar/task2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_API/reflection_API/lection/seminar/task2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_API/reflection_API/lection/seminar/task3/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_API/reflection_API/lection/seminar/task3/Column.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_API/reflection_API/lection/seminar/task3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_API/reflection_API/lection/seminar/task3/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_API/reflection_API/lection/seminar/task3/QueryBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_API/reflection_API/lection/seminar/task3/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_API/reflection_API/lection/seminar/task3/models/Entity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream_API/reflection_API/lection/seminar/task3/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream_API/reflection_API/lection/seminar/task3/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
